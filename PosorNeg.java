@@ -1,12 +1,12 @@
 import java.util.*;
 class PosorNeg
 {
-  piublic static void main(String args[])\
+  public static void main(String args[])
    {
      int n;
      Scanner s=new Scanner(System.in);
      System.out.println("enter the number");
-     n=s.nextint();
+     n=s.nextInt();
      if(n>0)
          {
             System.out.println("The number is Positive");
